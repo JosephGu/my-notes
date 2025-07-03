@@ -1,0 +1,12 @@
+[
+  {
+    "title": "CSRF",
+    "date": "2025-07-02",
+    "content": "This is my first blog"
+  },
+  {
+    "title": "Authentication and Authorization",
+    "date": "2025-07-02",
+    "content": "This is my second blog"
+  }
+]
