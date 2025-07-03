@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import blogs from '../data/blogs.json';
-import './index.sass';
+import './index.css';
 
 const Index = () => {
   return (
